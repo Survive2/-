@@ -16,6 +16,7 @@ CTF Pwn环境搭建自动脚本
 ### 使用方法为：
 ```shell
 git clone https://github.com/Survive2/AutoScript.git
+cd ./AutoScript
 chmod u+x resources.sh
 ./resources.sh
 ```
